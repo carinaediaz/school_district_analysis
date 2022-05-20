@@ -24,8 +24,8 @@ When we updated the data to remove Thomas High School 9th graders, the passing p
 ![Reading by Grade_ver2.PNG](https://github.com/carinaediaz/school_district_analysis/blob/main/Analysis/Reading%20by%20Grade_ver2.PNG)
 
 #### Scores by school spending
-![Scores by Spending_ver1.PNG](https://github.com/carinaediaz/school_district_analysis/blob/main/Analysis/Scores%20by%20Size_ver1.PNG)
-![Scores by Spending_ver2.PNG](https://github.com/carinaediaz/school_district_analysis/blob/main/Analysis/Scores%20by%20Size_ver2.PNG)
+![Scores by Spending_ver1.PNG](https://github.com/carinaediaz/school_district_analysis/blob/main/Analysis/Scores%20by%20Spending_ver1.PNG)
+![Scores by Spending_ver2.PNG](https://github.com/carinaediaz/school_district_analysis/blob/main/Analysis/Scores%20by%20Spending_ver2.PNG)
 Thomas High School falls into the $631-645 spending budget range. Because changes were only made to Thomas High School's test results, the other spending categories will not see any changes to their results. 
 
 #### Scores by school size
