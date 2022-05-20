@@ -6,9 +6,9 @@
 
 ### How is the district summary affected?
 ![District Summary_ver1.PNG](https://github.com/carinaediaz/school_district_analysis/blob/main/Analysis/District%20Summary_ver1.PNG)
-Running our analysis for all of the students within the district, we found that 75% of students passed math, 86% passed reading, and 65% of students passed both exams. 
+##### Running our analysis for all of the students within the district, we found that 75% of students passed math, 86% passed reading, and 65% of students passed both exams. 
 ![District Summary_ver2.PNG](https://github.com/carinaediaz/school_district_analysis/blob/main/Analysis/District%20Summary_ver2.PNG)
-When we updated the data to remove Thomas High School 9th graders, the passing percentages dropped slightly.
+##### When we updated the data to remove Thomas High School 9th graders, the passing percentages dropped slightly.
 
 ### How is the school summary affected?
 ![School Summary_ver1.PNG](https://github.com/carinaediaz/school_district_analysis/blob/main/Analysis/School%20Summary_ver1.PNG)
@@ -26,17 +26,17 @@ When we updated the data to remove Thomas High School 9th graders, the passing p
 #### Scores by school spending
 ![Scores by Spending_ver1.PNG](https://github.com/carinaediaz/school_district_analysis/blob/main/Analysis/Scores%20by%20Spending_ver1.PNG)
 ![Scores by Spending_ver2.PNG](https://github.com/carinaediaz/school_district_analysis/blob/main/Analysis/Scores%20by%20Spending_ver2.PNG)
-Thomas High School falls into the $631-645 spending budget range. Because changes were only made to Thomas High School's test results, the other spending categories will not see any changes to their results. 
+##### Thomas High School falls into the $631-645 spending budget range. Because changes were only made to Thomas High School's test results, the other spending categories will not see any changes to their results. 
 
 #### Scores by school size
 ![Scores by Size_ver1.PNG](https://github.com/carinaediaz/school_district_analysis/blob/main/Analysis/Scores%20by%20Size_ver1.PNG)
 ![Scores by Size_ver2.PNG](https://github.com/carinaediaz/school_district_analysis/blob/main/Analysis/Scores%20by%20Size_ver2.PNG)
-Thomas High School has 1,635 students, falling into the medium school size cateogry, therefore we will only see changes in the passing percentages for the medium high school category. 
+##### Thomas High School has 1,635 students, falling into the medium school size cateogry, therefore we will only see changes in the passing percentages for the medium high school category. 
 
 #### Scores by school type
 ![Scores by Type_ver1.PNG](https://github.com/carinaediaz/school_district_analysis/blob/main/Analysis/Scores%20by%20Type_ver1.PNG)
 ![Scores by Type_ver2.PNG](https://github.com/carinaediaz/school_district_analysis/blob/main/Analysis/Scores%20by%20Type_ver2.PNG)
-Thomas High School is a charter school. The changes in percentages for charter high schools are nominal. 
+##### Thomas High School is a charter school. The changes in percentages for charter high schools are nominal. 
 
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
